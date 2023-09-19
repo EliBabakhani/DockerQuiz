@@ -3,4 +3,3 @@ LABEL maintainer="elnaz.babakhani71@gmail.com"
 WORKDIR /app
 COPY . .
 CMD ["python", "name.py"]
-EXPOSE 8000
